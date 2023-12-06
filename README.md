@@ -1,6 +1,6 @@
 # startup-success-prediction
 
-#####README.md#####
+
 
 # Startup Success Prediction
 
