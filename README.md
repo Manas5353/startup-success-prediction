@@ -14,7 +14,7 @@ This Python script implements a Random Forest classifier using the scikit-learn 
 1. Clone the repository:
 
 
-$ git clone https://github.com/(https://github.com/Manas5353/startup-success-prediction.git)
+$ git clone https://github.com/Manas5353/startup-success-prediction.git
 $ cd startup-success-prediction
 
 
